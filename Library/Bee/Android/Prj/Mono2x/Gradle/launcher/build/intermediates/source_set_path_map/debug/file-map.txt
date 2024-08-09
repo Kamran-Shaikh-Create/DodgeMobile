@@ -1,0 +1,10 @@
+com.DefaultCompany.com.unity.template.mobile2D.launcher-pngs-0 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\debug
+com.DefaultCompany.com.unity.template.mobile2D.launcher-resValues-1 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\debug
+com.DefaultCompany.com.unity.template.mobile2D.launcher-rs-2 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\debug
+com.DefaultCompany.com.unity.template.mobile2D.launcher-mergeDebugResources-3 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.DefaultCompany.com.unity.template.mobile2D.launcher-mergeDebugResources-4 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-5 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\debug
+com.DefaultCompany.com.unity.template.mobile2D.launcher-debug-6 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\debug\res
+com.DefaultCompany.com.unity.template.mobile2D.launcher-main-7 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.com.unity.template.mobile2D.launcher-packaged_res-8 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\debug
+com.DefaultCompany.com.unity.template.mobile2D.launcher-packaged_res-9 E:\Unity Projects\Dodge\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\packaged_res\debug
