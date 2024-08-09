@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\Unity Projects\\Dodge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\unity projects\\dodge\\assets\\scripts\\buttoncolorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\buttoncolorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|e:\\unity projects\\dodge\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ButtonColorChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonColorChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|E:\\Unity Projects\\Dodge\\assets\\scripts\\pausemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanagerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|E:\\Unity Projects\\Dodge\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|E:\\Unity Projects\\Dodge\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE520D9-BC2B-CB9C-A9E5-E7D9C0360091}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,24 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ButtonColorChange.cs",
-              "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ButtonColorChange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonColorChange.cs",
-              "ToolTip": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ButtonColorChange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ButtonColorChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:00:37.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PauseMenuManager.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\PauseMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuManager.cs",
@@ -75,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
@@ -87,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UIAdjuster.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\UIAdjuster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIAdjuster.cs",
@@ -111,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
@@ -123,19 +110,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
               "ToolTip": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T16:05:11.598Z"
+              "WhenOpened": "2024-08-07T16:05:11.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "ButtonColorChange.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ButtonColorChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonColorChange.cs",
+              "ToolTip": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ButtonColorChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonColorChange.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:00:37.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ScoreManagerData.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\ScoreManagerData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManagerData.cs",
@@ -147,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CollisionHandler.cs",
               "DocumentMoniker": "E:\\Unity Projects\\Dodge\\Assets\\Scripts\\CollisionHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",

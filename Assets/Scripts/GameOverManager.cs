@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameOverManager : MonoBehaviour
 {
@@ -18,5 +19,9 @@ public class GameOverManager : MonoBehaviour
         {
             Debug.LogError("FinalScoreText is not assigned.");
         }
+    }
+    public void BackToMainMenu()
+    {
+        SceneManager.LoadScene("MainMenuScene");
     }
 }
