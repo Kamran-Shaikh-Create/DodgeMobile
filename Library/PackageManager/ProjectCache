@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638586224694844844
-    m_Hash: 1949585368
+      ticks: 638588095888910826
+    m_Hash: 852311532
   m_LockFileStatus:
     m_FilePath: E:/Unity Projects/Dodge/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638586224935535811
-    m_Hash: 305649789
+      ticks: 638588095888910826
+    m_Hash: 2245266141
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3860,6 +3860,7 @@ m_ResolvedPackages:
     - 10.1.0
     - 10.1.1
     - 10.1.2
+    - 10.1.3
     compatible:
     - 9.1.1
     recommended: 9.1.1
@@ -5000,6 +5001,7 @@ m_ResolvedPackages:
     - 9.0.3
     - 9.0.4
     - 9.0.5
+    - 9.0.6
     compatible:
     - 8.0.3
     recommended: 8.0.3
